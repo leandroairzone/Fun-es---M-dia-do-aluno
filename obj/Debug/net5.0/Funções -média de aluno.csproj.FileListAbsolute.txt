@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\Funções -média de aluno.exe
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\Funções -média de aluno.deps.json
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\Funções -média de aluno.runtimeconfig.json
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\Funções -média de aluno.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\Funções -média de aluno.dll
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\ref\Funções -média de aluno.dll
+C:\Users\Leandro\Desktop\Funções -média de aluno\bin\Debug\net5.0\Funções -média de aluno.pdb
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.dll
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\ref\Funções -média de aluno.dll
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.pdb
+C:\Users\Leandro\Desktop\Funções -média de aluno\obj\Debug\net5.0\Funções -média de aluno.genruntimeconfig.cache
